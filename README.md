@@ -57,6 +57,7 @@ Testing ensures the correctness, reliability, and quality of software. This list
 - [Testcontainers](https://www.testcontainers.org/) - Integration testing with Docker containers.
 - [Supertest](https://github.com/visionmedia/supertest) - HTTP assertions for Node.js.
 - [RestAssured](https://rest-assured.io/) - Java DSL for testing REST services.
+- [pytest-mrt](https://github.com/croc100/pytest-mrt) - pytest plugin and CLI for Alembic and Django migration rollback safety testing. Catches unsafe migration patterns with 44 static analysis rules and verifies reversibility via dynamic up/down/up cycle tests.
 
 ## End-to-End (E2E) Testing
 
