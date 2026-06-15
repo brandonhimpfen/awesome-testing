@@ -64,6 +64,7 @@ Testing ensures the correctness, reliability, and quality of software. This list
 - [Playwright](https://playwright.dev/) - End-to-end browser automation by Microsoft.
 - [Selenium](https://www.selenium.dev/) - Web automation across browsers and languages.
 - [Puppeteer](https://pptr.dev/) - Headless Chrome Node.js API.
+- [Podium MCP](https://github.com/hoainho/podium-mcp) - MCP server for end-to-end mobile testing on Android/iOS simulators using Maestro.
 - [TestCafe](https://testcafe.io/) - Node.js tool for automated browser testing.
 
 ## Performance & Load Testing
