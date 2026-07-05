@@ -60,6 +60,7 @@ Testing ensures the correctness, reliability, and quality of software. This list
 
 ## End-to-End (E2E) Testing
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
 - [Cypress](https://www.cypress.io/) - Fast, reliable testing for anything that runs in a browser.
 - [Playwright](https://playwright.dev/) - End-to-end browser automation by Microsoft.
 - [Selenium](https://www.selenium.dev/) - Web automation across browsers and languages.
